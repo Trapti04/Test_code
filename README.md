@@ -1,2 +1,2 @@
 # python_learning
-# initial learning files to get completely knolwedgeable
+# initial learning files to get completely knowledgeable
